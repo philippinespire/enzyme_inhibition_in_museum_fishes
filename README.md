@@ -70,7 +70,7 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 </p>
 </details>
 
-<details><summary>SequenceCounts.bash
+<details><summary>SequenceCounts.bash</summary>
 </p>
   
 [SequenceCounts.bash](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/SequenceCounts.bash)
