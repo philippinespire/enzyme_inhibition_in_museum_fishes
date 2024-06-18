@@ -27,20 +27,26 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 <details><summary>countReads.sbatch</summary>
 <p>
 
+[countReads.sbatch](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/countReads.sbatch)
 </p>
 </details>
+
 <details><summary>ErrorRateCalc.bash</summary>
 <p>
+
 [ErrorRateCalc.bash](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ErrorRateCalc.bash)
 
 </p>
 </details>
+
 <details><summary>ErrorRateCodeFunction</summary>
 <p>
+
 [ErrorRateCodeFunction](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ErrorRateCodeFunction)
 
 </p>
 </details>
+
 <details><summary>mapDamage.sh</summary>
 <p>
 
@@ -48,12 +54,14 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 
 </p>
 </details>
+
 <details><summary>PIRE_Stats_forR.R</summary>
 <p>
 
 [PIRE_Stats_forR.R](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/PIRE_Stats_forR.R)
 </p>
 </details>
+
 <details><summary>processSequenceCounts.R</summary>
 <p>
 
@@ -61,8 +69,11 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 
 </p>
 </details>
-<details><summary>SequenceCounts.bash
 
+<details><summary>SequenceCounts.bash
+</p>
+  
 [SequenceCounts.bash](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/SequenceCounts.bash)
+
 </p>
 </details>
