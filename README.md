@@ -13,6 +13,11 @@ Overall, sequencing of fishes preserved and stored in EtOH for >100 years is pos
 
 Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preserved Museum Fishes (2024) Molecular Ecology Resources
 
+___ 
+### Funding
+
+This repo and forementioned publication are product of the collaborative [Philippines PIRE Project](https://sites.wp.odu.edu/PIRE/), [NSF Award #1743711](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1743711).
+
 ---
 ## Scripts
 
