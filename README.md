@@ -16,24 +16,63 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 ---
 ## Scripts
 
-<details><summary>[ChiSQTest.R](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R)</summary>
+<details><summary>ChiSQTest.R</summary>
 <p>
 
-This script [ChiSQTest.R](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R)
-
-
----
+[ChiSQTest.R](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R)
 
 </p>
 </details>
 
 ---
 
-countReads.sbatch
-ErrorRateCalc.bash
-ErrorRateCodeFunction
-mapDamage.sh
-PIRE_Stats_forR.R
-processSequenceCounts.R
-README.md
-SequenceCounts.bash
+<details><summary>countReads.sbatch</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>ErrorRateCalc.bash</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>ErrorRateCodeFunction</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>mapDamage.sh</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>PIRE_Stats_forR.R</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>processSequenceCounts.R</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>README.md</summary>
+<p>
+
+---
+
+</p>
+</details>
+<details><summary>SequenceCounts.bash
