@@ -16,10 +16,10 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 ---
 ## Scripts
 
-<details><summary>(ChiSQTest.R)[https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R]</summary>
+<details><summary>[ChiSQTest.R](https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R)</summary>
 <p>
 
-This script (ChiSQTest.R)[https://github.com/philippinespire/enzyme_inhibition_in_museum_fishes/blob/main/ChiSQTest.R]
+This script 
 
 ---
 
