@@ -24,12 +24,8 @@ Effectiveness of Reduced Representation Sequencing on Century-Old Ethanol-Preser
 </p>
 </details>
 
----
-
 <details><summary>countReads.sbatch</summary>
 <p>
-
----
 
 </p>
 </details>
